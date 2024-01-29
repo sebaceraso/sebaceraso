@@ -1,3 +1,6 @@
+
+![DEVELOPER (1)](https://github.com/sebaceraso/sebaceraso/assets/103971805/cc7aa434-1ddc-4e58-964a-46faf5439159)
+
 # **Hola, ¿como estas? 👋 Mi nombre es Sebastian y soy Desarrollador Web (FRONTEND y BACKEND).**
 
 
