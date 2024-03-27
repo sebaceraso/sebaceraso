@@ -1,6 +1,6 @@
 
 ![DEVELOPER](https://github.com/sebaceraso/sebaceraso/assets/103971805/a628bc71-3e18-4e1f-be98-baf60f02acb7)
-)
+
 
 # **Hola, ¿como estas? 👋 Mi nombre es Sebastian y soy Desarrollador FrontEnd.**
 
