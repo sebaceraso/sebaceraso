@@ -24,3 +24,5 @@
 
   ✔️ SEO ON PAGE.
   
+  ✔️ WORDPRESS, ELEMENTOR.
+  
